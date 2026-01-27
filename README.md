@@ -1,6 +1,11 @@
 ## Hi there 👋
-##    I am Vyshnavi
+<h1 align="center">Hi, I'm Allam Vyshnavi Sushma! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Full+Stack+Developer" alt="Typing SVG" />
+</p>
 
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **Avyshnavi-07/Avyshnavi-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
